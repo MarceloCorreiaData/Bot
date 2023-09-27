@@ -1,0 +1,5 @@
+﻿Loop
+{
+    Send, {Right}
+    Sleep, 100 ; Espera 500 milissegundos
+}
